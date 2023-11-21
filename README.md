@@ -4,22 +4,20 @@ Use SendTo to run PowerShell on Selected Files
 # How to use
 High-light Folder(s)/Files(s) you want to run the powershell command on.
 
-![image](https://github.com/PaulAntonescu/power-file/assets/74125937/475bca74-1409-4142-996c-59bf78f1320e)
+![image](https://github.com/PaulAntonescu/power-file/assets/74125937/a9e5f522-24e7-4583-8e3a-306c1f665a2f)
 
-Right Click and Click power_file.exe
+Right Click and Run power_file.exe
 
-![image](https://github.com/PaulAntonescu/power-file/assets/74125937/03f9cdbd-2cb9-461b-91c7-5455a664c0cb)
-
+![image](https://github.com/PaulAntonescu/power-file/assets/74125937/2f7a9810-07c4-4a90-b3c4-5664af25aa97)
 
 ## Interface
 Enter index of powershell file you want to run.
 
-![image](https://github.com/PaulAntonescu/power-file/assets/74125937/5fdd5a89-946d-4520-a6e6-4a7739510938)
+![image](https://github.com/PaulAntonescu/power-file/assets/74125937/36dc02ca-bf29-4e5a-ad0c-52a8ea1ab6f2)
 
 It will open a powershell window and run the selected script
 
-![image](https://github.com/PaulAntonescu/power-file/assets/74125937/daa32b27-a04a-48f9-b3ab-134260418c08)
-
+![image](https://github.com/PaulAntonescu/power-file/assets/74125937/3048d53c-e11b-4ce3-8a3c-f531330d750d)
 
 # Set up
 1. After building binary power_file.exe add to ```"C:\Users\%USERNAME%\AppData\Roaming\Microsoft\SendTo"```
